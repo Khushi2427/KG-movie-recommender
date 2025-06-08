@@ -2,6 +2,9 @@
 
 Welcome to the **Movie Recommender System**, a content-based movie recommendation web app that helps users find similar movies based on the one they like!
 
+🖼️ Demo
+https://movie-recommender-kg.onrender.com
+
 ## 🧠 How It Works
 
 This system uses **content-based filtering** to recommend movies. It processes metadata like:
@@ -37,7 +40,7 @@ It then:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender.git
+git clone https://github.com/Khushi2427/KG-movie-recommender.git
 cd movie-recommender
 
 2 . Install required packages:
